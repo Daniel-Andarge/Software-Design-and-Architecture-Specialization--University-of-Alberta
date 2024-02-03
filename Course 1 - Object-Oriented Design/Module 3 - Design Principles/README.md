@@ -22,9 +22,13 @@ In this module, I learn about essential design principles aimed at crafting code
 
 5. **Expressing Software Behavior with UML:**
    - Explore techniques for expressing software behavior through Unified Modeling Language (UML).
-   - Learn how UML diagrams aid in visualizing and communicating software architecture.
+   - Learn how UML diagrams, including Sequence and State Diagrams, aid in visualizing and communicating software architecture.
 
-6. **Bonus Learning Objectives (Added for Comprehensive Understanding):**
+6. **Modelling Behavior:**
+   - Understand methods for effectively modeling software behavior.
+   - Explore additional design patterns and anti-patterns for nuanced software development.
+
+7. **Bonus Learning Objectives (Added for Comprehensive Understanding):**
    - Grasp the importance of Conceptual Integrity and its impact on the overall design.
    - Gain insights into additional design patterns and anti-patterns for more nuanced software development.
 
