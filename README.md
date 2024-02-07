@@ -1,22 +1,91 @@
-# Software Design and Architecture Specialization Assignments
-This repo contains all my assignment work while going through [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture) in Coursera.
+# Software Design and Architecture Specialization
 
-#### Offered By
-[![N|Solid](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/35/23d929219e4489c2d11215009dc699/coursera_180x180.png?auto=format%2Ccompress&dpr=1&w=120&h=120&q=40)](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/35/23d929219e4489c2d11215009dc699/coursera_180x180.png?auto=format%2Ccompress&dpr=1&w=120&h=120&q=40)
+**About the Specialization:**
+In the Software Design and Architecture Specialization, you'll master the application of design principles, patterns, and architectures to build reusable and flexible software applications and systems. Learn how to express and document software system designs visually, using Unified Modeling Language (UML).
 
-## About this Specialization
-In the Software Design and Architecture Specialization, you will learn how to apply design principles, patterns, and architectures to create reusable and flexible software applications and systems. You will learn how to express and document the design and architecture of a software system using a visual notation.
+**Practical Learning:**
+Engage in practical examples to apply your knowledge, developing employable skills and expertise relevant to the software industry.
 
-### There are 4 Courses in this Specialization:
+## Applied Learning Project
 
-### [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)
-This course takes Java beginners to the next level by covering object-oriented analysis and design. You will discover how to create modular, flexible, and reusable software, by applying object-oriented design principles and guidelines. And, you will be able to communicate these designs in a visual notation known as Unified Modelling Language (UML).
+**Capstone Project: Java-based Android Application**
+The culmination of this specialization involves a Java-based Android application. Progress through the four courses, evolving the app from a single-user local data storage to a multi-user app with remote data storage. Each course provides a Java codebase as a starting point, challenging you to document and implement new features based on course knowledge.
 
-### [Design Patterns](https://www.coursera.org/learn/design-patterns)
-This course extends object-oriented analysis and design by incorporating design patterns to create interactive applications. Through a survey of established design patterns, you will gain a foundation for more complex software applications. Finally, you will identify problematic software designs by referencing a catalog of code smells.
+Tutorials are available to help you understand the starter codebase and grasp the basics of Android development.
 
-### [Software Architecture](https://www.coursera.org/learn/software-architecture)
-The way that software components — subroutines, classes, functions, etc. — are arranged, and the interactions between them, is called architecture. In this course you will study the ways these architectures are represented, both in UML and other visual tools. We will introduce the most common architectures, their qualities, and tradeoffs. We will talk about how architectures are evaluated, what makes a good architecture, and an architecture can be improved. We'll also talk about how the architecture touches on the process of software development.
+## Prerequisites
 
-### [Service-Oriented Architecture](https://www.coursera.org/learn/service-oriented-architecture)
-  Based on an understanding of architectural styles, you will review architectures for web applications, then explore the basics of Service-Oriented Architecture (SOA) in two approaches: Web Services (WS*) and Representational State Transfer (REST) architecture.
+Basic Java programming knowledge is expected. The capstone application requires the use of Android Studio, an integrated development environment. Explore tutorials for [Windows](link-to-windows-tutorial) or [Mac](link-to-mac-tutorial) to familiarize yourself with Android Studio.
+
+---
+
+## Course 1: Object-Oriented Design
+
+**Duration: 17 hours | Rating: 4.7 (2,253 ratings)**
+
+**What you'll learn:**
+
+- Object-oriented analysis and design principles.
+- Creating modular, flexible, and reusable software.
+- Expressing designs in Unified Modeling Language (UML).
+- Applying Class Responsibility Collaborator (CRC) technique.
+- Designing an Android application with corresponding UML documentation.
+
+**Skills gained:**
+
+- Object-Oriented Design
+- Object-Oriented Analysis and Design
+- Unified Modeling Language (UML)
+
+---
+
+## Course 2: Design Patterns
+
+**Duration: 15 hours | Rating: 4.7 (1,260 ratings)**
+
+**What you'll learn:**
+
+- Using design patterns for interactive applications.
+- Identifying and addressing user interface design issues.
+- Applying design principles (e.g., open-closed, dependency inversion).
+- Recognizing and refactoring anti-patterns.
+- Implementing the model-view-controller architectural pattern.
+
+---
+
+## Course 3: Software Architecture
+
+**Duration: 9 hours | Rating: 4.5 (864 ratings)**
+
+**What you'll learn:**
+
+- Representation of software architectures using UML.
+- Common architectural styles, qualities, and tradeoffs.
+- Properties of layered and n-tier architectures.
+- Creating UML diagrams to express architectural structure.
+- Documenting a multi-application system with layered architecture.
+
+---
+
+## Course 4: Service-Oriented Architecture
+
+**Duration: 9 hours | Rating: 4.5 (557 ratings)**
+
+**What you'll learn:**
+
+- Architectures for web applications.
+- Basics of Service-Oriented Architecture (SOA).
+- Web Services (WS\*) and Representational State Transfer (REST) architecture.
+- Microservices and REST design principles.
+- Connecting a Java-based Android application with Elasticsearch using REST.
+
+**Skills gained:**
+
+- Web Service
+- Microservices
+- Representational State Transfer (REST)
+- Service-Oriented Architecture
+
+---
+
+Embark on this specialization to enhance your software design and architecture skills, contributing to your proficiency in creating robust and scalable software solutions.
