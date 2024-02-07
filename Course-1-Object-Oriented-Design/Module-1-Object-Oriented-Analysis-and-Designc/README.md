@@ -1,4 +1,4 @@
-# Object-Oriented-Analysis-and-Design
+# Object-Oriented Analysis and Design
 
 **Effective Software Design Module**
 
