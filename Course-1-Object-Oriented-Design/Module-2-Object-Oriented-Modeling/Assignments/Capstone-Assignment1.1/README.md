@@ -11,7 +11,7 @@ To better understand the app's scope, review the following user stories:
 3. The owner can change an item's status from "Available" to "Borrowed" and vice versa.
 4. When an item's status is changed to "Borrowed," the owner must enter the borrower's username.
 
-![UserStories.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-2-Object-Oriented-Modeling/Assignments/Capstone-Assignment1.1/Template.pdf)
+![UserStories.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-2-Object-Oriented-Modeling/Assignments/Capstone-Assignment1.1/User-Stories---Items-Only.pdf)
 
 **Assignment Guidelines:**
 
