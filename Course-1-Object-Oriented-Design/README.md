@@ -1,15 +1,20 @@
+# Object-Oriented Design
+
 **Professional Learning Summary**
 
 This comprehensive course has significantly elevated my proficiency in Java programming, particularly through an in-depth exploration of object-oriented analysis and design principles. The key takeaways include:
 
 1. **Advanced Object-Oriented Design:**
+
    - Mastery of creating modular, flexible, and reusable software through the application of object-oriented design principles and guidelines.
    - Acquisition of skills to analyze and design sophisticated software systems.
 
 2. **Unified Modeling Language (UML):**
+
    - Proficiency in communicating complex designs through the use of Unified Modeling Language (UML), a standard visual notation for software modeling.
 
 3. **Capstone Project Challenge:**
+
    - Application of acquired knowledge through a challenging Capstone Project involving the evolution and documentation of a Java codebase for an Android application, accompanied by comprehensive UML documentation.
 
 4. **Key Achievements:**
