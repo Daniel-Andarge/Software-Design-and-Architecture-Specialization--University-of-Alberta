@@ -2,8 +2,7 @@
 
 This UML class diagram illustrates the object-oriented model for a car rental company. The diagram showcases the essential classes and relationships, focusing on cars, renters, and the renting process without including specific attributes or methods.
 
-![Car Rental Company UML Class Diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-2-Object-Oriented-Modeling/Assignments/UML-Class-Diagram/Car-Rental-UML-Class-Diagram.jpg
-)
+![Car-Rental-Company-UML-Class-Diagram.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-2-Object-Oriented-Modeling/Assignments/UML-Class-Diagram/Car-Rental-UML-Class-Diagram.pdf)
 
 **Instructions for Submission:**
 
