@@ -35,7 +35,7 @@ To better understand the app's scope, review the following user stories:
 
    - Refer to the provided template to get started. The template includes Dependency relationships for reference (not mandatory for use).
 
-   ![Lucidchart Template](link-to-your-template)
+   ![Template](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-2-Object-Oriented-Modeling/Assignments/Capstone-Assignment1.1/Template.pdf)
 
 5. **Style Guidelines:**
    - Illuminate crossing edges for clarity.
