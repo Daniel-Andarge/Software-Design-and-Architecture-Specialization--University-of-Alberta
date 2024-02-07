@@ -21,9 +21,7 @@ Basic Java programming knowledge is expected. The capstone application requires 
 
 ## Course 1: Object-Oriented Design
 
-**Duration: 17 hours | Rating: 4.7 (2,253 ratings)**
-
-**What you'll learn:**
+**What I learn:**
 
 - Object-oriented analysis and design principles.
 - Creating modular, flexible, and reusable software.
@@ -41,9 +39,7 @@ Basic Java programming knowledge is expected. The capstone application requires 
 
 ## Course 2: Design Patterns
 
-**Duration: 15 hours | Rating: 4.7 (1,260 ratings)**
-
-**What you'll learn:**
+**What I learn:**
 
 - Using design patterns for interactive applications.
 - Identifying and addressing user interface design issues.
@@ -55,9 +51,7 @@ Basic Java programming knowledge is expected. The capstone application requires 
 
 ## Course 3: Software Architecture
 
-**Duration: 9 hours | Rating: 4.5 (864 ratings)**
-
-**What you'll learn:**
+**What I learn:**
 
 - Representation of software architectures using UML.
 - Common architectural styles, qualities, and tradeoffs.
@@ -69,9 +63,7 @@ Basic Java programming knowledge is expected. The capstone application requires 
 
 ## Course 4: Service-Oriented Architecture
 
-**Duration: 9 hours | Rating: 4.5 (557 ratings)**
-
-**What you'll learn:**
+**What I learn:**
 
 - Architectures for web applications.
 - Basics of Service-Oriented Architecture (SOA).
