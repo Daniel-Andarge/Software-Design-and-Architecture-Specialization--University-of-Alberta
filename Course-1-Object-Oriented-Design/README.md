@@ -1,4 +1,4 @@
-# Object-Oriented Design
+# Course 1 - Object-Oriented Design
 
 **Professional Learning Summary**
 
