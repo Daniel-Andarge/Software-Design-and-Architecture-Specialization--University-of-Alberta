@@ -79,5 +79,3 @@ Basic Java programming knowledge is expected. The capstone application requires 
 - Service-Oriented Architecture
 
 ---
-
-Embark on this specialization to enhance your software design and architecture skills, contributing to your proficiency in creating robust and scalable software solutions.
