@@ -1,6 +1,6 @@
 ## Object-Oriented Design Capstone Challenge
 
-Throughout this course, I have delved into the realms of object-oriented analysis, design principles, and modeling. 
+Throughout this course, I have delved into the realms of object-oriented analysis, design principles, and modeling.
 To solidify my grasp of these concepts, I engaged in creating a UML class diagram from an Android codebase example.
 The insights gained were further leveraged to craft sequence and state diagrams, providing a comprehensive model of the system's behavior.
 
@@ -11,14 +11,17 @@ In this final module, the focus shifts towards practical implementation. Armed w
 ### Learning Objectives for the Capstone Challenge
 
 1. **Translate UML Class Diagrams to Java Code:**
+
    - Demonstrate proficiency in converting UML class diagrams into equivalent Java code.
    - Apply object-oriented principles to bridge the gap between design abstraction and concrete implementation.
 
 2. **Enhance Codebase with Updated Design:**
+
    - Integrate the new functionality into the existing Android codebase, aligning with the updated UML class diagram.
    - Showcase my ability to adapt and extend an existing codebase to accommodate evolving design requirements.
 
 3. **Practical Application of Design Principles:**
+
    - Implement design principles learned throughout the course in the context of real-world coding scenarios.
    - Address challenges and complexities that arise during the integration process, emphasizing robust design practices.
 
@@ -29,6 +32,7 @@ In this final module, the focus shifts towards practical implementation. Armed w
 ### Additional Learning Objectives (Added for Comprehensive Understanding)
 
 5. **Documentation and Communication:**
+
    - Create comprehensive documentation detailing the design decisions, code structure, and integration process.
    - Communicate the rationale behind design choices effectively, fostering collaboration and knowledge-sharing.
 
