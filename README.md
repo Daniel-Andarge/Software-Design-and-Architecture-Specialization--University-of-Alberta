@@ -1,7 +1,7 @@
 # Software Design and Architecture Specialization
 
 **About the Specialization:**
-In the Software Design and Architecture Specialization, I mastered the application of design principles, patterns, and architectures to build reusable and flexible software applications and systems. I learned how to express and document software system designs visually, using Unified Modeling Language (UML).
+In the [Software Design and Architecture Specialization](#), I mastered the application of design principles, patterns, and architectures to build reusable and flexible software applications and systems. I learned how to express and document software system designs visually, using Unified Modeling Language (UML).
 
 **Practical Learning:**
 Engaging in practical examples allowed me to apply my knowledge, developing employable skills and expertise relevant to the software industry.
@@ -19,7 +19,7 @@ Basic Java programming knowledge was expected. The capstone application required
 
 ---
 
-## Course 1: Object-Oriented Design
+## Course 1: [Object-Oriented Design](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/tree/main/Course-1-Object-Oriented-Design)
 
 **What I Learned:**
 
@@ -37,7 +37,7 @@ Basic Java programming knowledge was expected. The capstone application required
 
 ---
 
-## Course 2: Design Patterns
+## Course 2: [Design Patterns](link-to-course-2)
 
 **What I Learned:**
 
@@ -49,7 +49,7 @@ Basic Java programming knowledge was expected. The capstone application required
 
 ---
 
-## Course 3: Software Architecture
+## Course 3: [Software Architecture](link-to-course-3)
 
 **What I Learned:**
 
@@ -61,7 +61,7 @@ Basic Java programming knowledge was expected. The capstone application required
 
 ---
 
-## Course 4: Service-Oriented Architecture
+## Course 4: [Service-Oriented Architecture](link-to-course-4)
 
 **What I Learned:**
 
