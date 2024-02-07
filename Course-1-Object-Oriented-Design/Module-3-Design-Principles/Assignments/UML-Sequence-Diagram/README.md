@@ -4,7 +4,7 @@
 
 Here is an UML class diagram to represent a system for North American airports.
 
-![UML class diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-3-Design-Principles/Assignments/UML-Sequence-Diagram/ungraded_uml_class_diagram.jpg)
+![UML class diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-3-Design-Principles/Assignments/UML-Sequence-Diagram/NA_Airports_UML-Class-Diagram.png)
 
 **Objective:**
 Your task is to provide more details about the system by creating a UML sequence diagram. This diagram will illustrate how the system's classes interact when customers purchase flight tickets on the booking website.
