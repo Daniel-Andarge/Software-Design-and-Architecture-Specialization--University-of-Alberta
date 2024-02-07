@@ -1,3 +1,5 @@
+# Capstone Assignment 1.1 – UML Class Diagram
+
 **Assignment Overview: UML Class Diagram for Item Sharing App**
 
 This assignment tasks you with creating a UML class diagram for an item-sharing app. The app allows owners to record and share their items, view their availability, and change the status of items between "Available" and "Borrowed."
