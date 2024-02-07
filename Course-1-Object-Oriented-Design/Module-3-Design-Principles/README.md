@@ -1,4 +1,6 @@
-# Design Principles for Crafting Robust and Maintainable Code
+# Design Principles
+
+## Design Principles for Crafting Robust and Maintainable Code
 
 In this module, I learn about essential design principles aimed at crafting code that embodies flexibility, reusability, and maintainability. Mastering these principles equips me with the knowledge to create robust software solutions.
 
