@@ -2,7 +2,9 @@
 
 **Assignment Topic: North American Airports System**
 
-Here is a [UML class diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-2-Object-Oriented-Modeling/Assignments/UML-Class-Diagram/Car-Rental-UML-Class-Diagram.pdf) representing a system for North American airports.
+Here is an UML class diagram to represent a system for North American airports.
+
+[UML class diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-3-Design-Principles/Assignments/UML-Sequence-Diagram/ungraded_uml_class_diagram.jpg)
 
 **Objective:**
 Your task is to provide more details about the system by creating a UML sequence diagram. This diagram will illustrate how the system's classes interact when customers purchase flight tickets on the booking website.
