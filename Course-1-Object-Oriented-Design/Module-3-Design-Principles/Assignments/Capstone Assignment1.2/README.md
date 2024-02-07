@@ -2,7 +2,7 @@
 
 This assignment challenges you to apply your knowledge of object-oriented design by creating a UML sequence diagram from a provided code base.
 
-[Download Starter Code](Your_Starter_Code_Link_Here)
+[Code Base](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/tree/main/Course-1-Object-Oriented-Design/Module-3-Design-Principles/Assignments/Capstone%20Assignment1.2/SharingApp_Starter_Code)
 
 ## Setup Instructions
 
