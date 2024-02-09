@@ -33,6 +33,7 @@ To assess the correctness of your code, submit a demo video (5 minutes or less) 
 
 ### UML Class Diagram
 
-Refer to the [updated UML class diagram](Provide_Image_Link_Here) to aid in understanding and implementing the new functionality.
+Use the following updated UML class diagram to assist you with your understanding and implementation:
 
+![updated UML class diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-4-Capstone-Challenge/Capstone-Assignment1.4/Update-UML-Class.png)
 Good luck with your assignment!
