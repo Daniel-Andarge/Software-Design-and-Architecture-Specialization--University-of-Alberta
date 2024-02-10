@@ -19,4 +19,4 @@ This UML class diagram illustrates the object-oriented model for a car rental co
 - Review your diagram for clarity and correctness before submission.
 
 **Solution:**
-![Submission-UML-Class-Diagram.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-2-Object-Oriented-Modeling/Assignments/UML-Class-Diagram/Car-Rental-UML-Class-Diagram.pdf)
+![Submission-UML-Class-Diagram.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-2-Object-Oriented-Modeling/Assignments/Assignmet-1/Submission-UML-Class-Diagram.pdf)
