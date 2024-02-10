@@ -33,5 +33,5 @@ Your task is to provide more details about the system by creating a UML sequence
 
 This UML sequence diagram will serve as a communication tool for clients, providing a visual representation of the interactions within the system during the flight ticket purchasing process.
 
-** Submission**
-![UML sequence diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-3-Design-Principles/Assignments/Assignment-1/Submission-UML%20Sequence%20Diagram.pdf)
+**Solution:**
+[Submission-UML Sequence Diagram.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-3-Design-Principles/Assignments/Assignment-1/Submission-UML%20Sequence%20Diagram.pdf)
