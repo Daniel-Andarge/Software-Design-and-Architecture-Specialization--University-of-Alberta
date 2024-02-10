@@ -39,7 +39,7 @@ To better understand the app's scope, review the following user stories:
 
    - Refer to the provided template to get started. The template includes Dependency relationships for reference (not mandatory for use).
 
-   [Template](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-2-Object-Oriented-Modeling/Assignments/Capstone-Assignment1.1/Template.pdf)
+   [Template.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-2-Object-Oriented-Modeling/Assignments/Capstone-Assignment1.1/Template.pdf)
 
 5. **Style Guidelines:**
    - Illuminate crossing edges for clarity.
@@ -58,4 +58,6 @@ To better understand the app's scope, review the following user stories:
 - No requirement for specific colors; focus on clarity and structure.
 - This assignment aims to reinforce your understanding of abstraction, encapsulation, decomposition, and generalization in Java and UML.
 
-Thank you for your dedication to this assignment. Happy diagramming!
+---
+
+[Submission.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-2-Object-Oriented-Modeling/Assignments/Capstone-Assignment1.1/Submission-UML-Class-Diagram.pdf)
