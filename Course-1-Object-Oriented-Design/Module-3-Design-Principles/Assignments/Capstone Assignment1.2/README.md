@@ -42,3 +42,4 @@ Review the lecture [1.3.6 – UML Sequence Diagram](Link_to_Lecture_Here) to aid
 6. To get started, you can use the provided [template](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-3-Design-Principles/Assignments/Capstone%20Assignment1.2/Template-1.2.pdf). Note that some methods/messages are provided for you. Add the missing messages to complete the diagram.
 
 **Solution:**
+[Submission-UML Sequence Diagram.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-3-Design-Principles/Assignments/Capstone%20Assignment1.2/Submission-UML-Sequence-Diagram.pdf)
