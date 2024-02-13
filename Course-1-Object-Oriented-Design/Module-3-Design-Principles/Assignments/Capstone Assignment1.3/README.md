@@ -2,7 +2,7 @@
 
 Download, examine and run the code base provided. This is the same code base that you used in the previous Peer Review assignment:
 
-[Code Base](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/tree/main/Course-1-Object-Oriented-Design/Module-3-Design-Principles/Assignments/Capstone%20Assignment1.2/SharingApp_Starter_Code)
+[Code Base](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/tree/main/Course-1-Object-Oriented-Design/Module-3-Design-Principles/Assignments/Capstone%20Assignment1.3/SharingApp-Starter-Code)
 
 ## Assignment Guidelines: UML State Diagram
 
@@ -48,4 +48,4 @@ Organize your UML State Diagram professionally and include it in your assignment
 Remember, clarity and precision are key in conveying the system's behavior. Best of luck with your assignment!
 
 **Solution:**
-[Submission-UML Sequence Diagram.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-3-Design-Principles/Assignments/Capstone%20Assignment1.2/Submission-UML-Sequence-Diagram.pdf)
+[Submission-SharingApp – UML State Diagram-ItemAdd.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-3-Design-Principles/Assignments/Capstone%20Assignment1.3/Submission-SharingApp%20–%20UML%20State%20Diagram-ItemAdd.pdf)
