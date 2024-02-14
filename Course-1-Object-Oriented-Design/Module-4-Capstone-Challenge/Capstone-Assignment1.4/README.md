@@ -4,7 +4,7 @@ In this assignment, you'll enhance the existing application by adding new functi
 
 ### User-Stories-with-Contacts
 
-[User-Stories-with-Contacts](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-4-Capstone-Challenge/Capstone-Assignment1.4/User-Stories-with-Contacts.pdf)
+[User-Stories-with-Contacts.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-4-Capstone-Challenge/Capstone-Assignment1.4/User-Stories-with-Contacts.pdf)
 
 ## Submission Instructions
 
