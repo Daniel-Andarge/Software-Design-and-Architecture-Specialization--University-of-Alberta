@@ -2,6 +2,10 @@
 
 In this assignment, you'll enhance the existing application by adding new functionality. Utilize the updated UML class diagram as a guide to implement these changes.
 
+### User-Stories-with-Contacts
+
+[User-Stories-with-Contacts](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-4-Capstone-Challenge/Capstone-Assignment1.4/User-Stories-with-Contacts.pdf)
+
 ## Submission Instructions
 
 ### Part 1: Translate UML to Java Code
@@ -37,7 +41,3 @@ Use the following updated UML class diagram to assist you with your understandin
 
 ![Updated UML class diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-4-Capstone-Challenge/Capstone-Assignment1.4/Update-UML-Class.png)
 Good luck with your assignment!
-
-### User-Stories-with-Contacts
-
-[User-Stories-with-Contacts](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-4-Capstone-Challenge/Capstone-Assignment1.4/User-Stories-with-Contacts.pdf)
