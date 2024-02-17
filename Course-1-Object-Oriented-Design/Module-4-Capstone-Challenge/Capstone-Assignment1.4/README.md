@@ -45,8 +45,8 @@ Use the following updated UML class diagram to assist you with your understandin
 
 ### Part 1: Translate UML to Java Code
 
-![Source Code](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-4-Capstone-Challenge/Capstone-Assignment1.4/Update-UML-Class.png)
+![Source Code](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/tree/main/Course-1-Object-Oriented-Design/Module-4-Capstone-Challenge/Capstone-Assignment1.4/SharingApp-Updated)
 
 ### Part 2: Demo Video
 
-![Youtube Video](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/Module-4-Capstone-Challenge/Capstone-Assignment1.4/Update-UML-Class.png)
+![Youtube Video](https://www.youtube.com/watch?v=7Zhq8FKB9F0)
