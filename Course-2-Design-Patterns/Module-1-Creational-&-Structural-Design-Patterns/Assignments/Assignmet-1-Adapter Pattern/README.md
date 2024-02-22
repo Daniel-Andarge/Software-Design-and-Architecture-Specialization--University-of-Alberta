@@ -6,7 +6,7 @@ In your workplace, there is an existing coffee machine that dispenses two differ
 
 ## UML Class Diagram
 
-![UML Class Diagram](image_link)
+[UML Class Diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Module-1-Creational-%26-Structural-Design-Patterns/Assignments/Assignmet-1-Adapter%20Pattern/Adapter-Class-Diagram.png)
 
 ## Class Structure
 
@@ -43,7 +43,3 @@ public class CoffeeTouchscreenAdapter implements CoffeeMachineInterface {
 2. Implement the necessary methods in the `OldCoffeeMachine` class to maintain its existing functionality.
 3. Complete the `CoffeeTouchscreenAdapter` class to enable communication between the new touchscreen interface and the old coffee machine.
 4. Follow the provided UML class diagram for a structural guide.
-
-Feel free to refer to the UML class diagram image for a visual representation of the class relationships and structure.
-
-We appreciate your efforts in enhancing our coffee machine system to meet the evolving requirements of the office environment.

@@ -6,7 +6,7 @@ You have been tasked with developing a playlist application for Android devices 
 
 ## UML Class Diagram
 
-![UML Class Diagram](image_link)
+![UML Class Diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Module-1-Creational-%26-Structural-Design-Patterns/Assignments/Assignmet-2-Composite%20Pattern/Composite-UML-Class-Diagram.png)
 
 ## Code
 
