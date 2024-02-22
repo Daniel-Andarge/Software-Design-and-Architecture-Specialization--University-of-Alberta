@@ -4,11 +4,7 @@
 
 This comprehensive course has significantly elevated my proficiency in Java programming, particularly through an in-depth exploration of object-oriented analysis and design principles. The key takeaways include:
 
-![OOD]()
-
-<p align="center">
-  <img src="https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/OOD.png" alt="OOD">
-</p>
+![OOD](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/OOD.png)
 
 1. **Advanced Object-Oriented Design:**
 
