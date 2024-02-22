@@ -1,10 +1,10 @@
 # Course 2 - Design Patterns
 
+![Design Patterns](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Design-Patterns.jpg)
+
 ## Overview
 
 Hello, and welcome to my journey through Course 2 - Design Patterns! In this course, I explored the integration of design patterns to enhance my understanding of object-oriented analysis and design, enabling the creation of sophisticated and interactive applications. Throughout the four modules, I delved into established design patterns, gaining insights into their applications and benefits in software development. Additionally, I honed my skills in identifying problematic software designs through a detailed examination of code smells.
-
-![Design Patterns](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Module-1-Creational-%26-Structural-Design-Patterns/Assignments/Assignmet-1-Adapter%20Pattern/Adapter-Class-Diagram.png)
 
 ## Key Modules
 
