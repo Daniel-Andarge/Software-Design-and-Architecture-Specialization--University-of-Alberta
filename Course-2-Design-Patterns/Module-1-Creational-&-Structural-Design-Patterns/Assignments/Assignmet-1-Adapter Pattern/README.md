@@ -6,7 +6,7 @@ In your workplace, there is an existing coffee machine that dispenses two differ
 
 ## UML Class Diagram
 
-[UML Class Diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Module-1-Creational-%26-Structural-Design-Patterns/Assignments/Assignmet-1-Adapter%20Pattern/Adapter-Class-Diagram.png)
+![UML Class Diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Module-1-Creational-%26-Structural-Design-Patterns/Assignments/Assignmet-1-Adapter%20Pattern/Adapter-Class-Diagram.png)
 
 ## Class Structure
 
