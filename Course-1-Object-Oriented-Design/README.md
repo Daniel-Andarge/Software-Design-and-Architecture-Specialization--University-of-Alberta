@@ -4,6 +4,8 @@
 
 This comprehensive course has significantly elevated my proficiency in Java programming, particularly through an in-depth exploration of object-oriented analysis and design principles. The key takeaways include:
 
+![OOD](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/SDA.png)
+
 1. **Advanced Object-Oriented Design:**
 
    - Mastery of creating modular, flexible, and reusable software through the application of object-oriented design principles and guidelines.
