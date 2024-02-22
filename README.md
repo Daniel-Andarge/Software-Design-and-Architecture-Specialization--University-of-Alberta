@@ -1,5 +1,7 @@
 # Software Design and Architecture Specialization
 
+![Design Patterns](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Design-Patterns.jpg)
+
 **About the Specialization:**
 In the [Software Design and Architecture Specialization](https://www.ualberta.ca/admissions-programs/online-courses/software-design-and-architecture.html), I mastered the application of design principles, patterns, and architectures to build reusable and flexible software applications and systems. I learned how to express and document software system designs visually, using Unified Modeling Language (UML).
 
