@@ -1,9 +1,9 @@
 # Software Design and Architecture Specialization
 
-![SDA](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/SDA.png)
-
 **About the Specialization:**
 In the [Software Design and Architecture Specialization](https://www.ualberta.ca/admissions-programs/online-courses/software-design-and-architecture.html), I mastered the application of design principles, patterns, and architectures to build reusable and flexible software applications and systems. I learned how to express and document software system designs visually, using Unified Modeling Language (UML).
+
+![SDA](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/SDA.png)
 
 **Practical Learning:**
 Engaging in practical examples allowed me to apply my knowledge, developing employable skills and expertise relevant to the software industry.
