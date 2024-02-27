@@ -1,4 +1,9 @@
+package CoffeeMachine;
+
 public interface CoffeeMachineInterface {
-    // Define necessary methods for the coffee machine interface
-    // ...
+
+public void ChooseFirstSelection ();
+
+public void ChooseSecomdSelection ();
+
 }
