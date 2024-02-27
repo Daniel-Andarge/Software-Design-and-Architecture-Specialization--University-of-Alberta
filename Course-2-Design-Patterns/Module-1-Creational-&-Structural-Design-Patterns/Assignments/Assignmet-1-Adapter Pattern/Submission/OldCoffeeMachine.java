@@ -1,5 +1,3 @@
-package CoffeeMachine;
-
 public class OldCoffeeMachine {
 
 public void selectA(){
