@@ -1,4 +1,26 @@
+package CoffeeMachine;
+
 public class CoffeeTouchscreenAdapter implements CoffeeMachineInterface {
-    // Implement the adapter to connect the new touchscreen interface with the old coffee machine
-    // ...
+
+private OldCoffeeMachine oldVendingMachine;
+
+
+public void connect(OldCoffeeMachine oldVendingMachine) {
+
+this.oldVendingMachine = oldVendingMachine;
+
+@Override
+public void ChooseFirstSelection (){
+
+oldVendingMachine.selectA();
+}
+
+@Override
+public void ChooseSecondSelection ()
+{
+
+oldVendingMachine.selectB();
+
+}
+}
 }
