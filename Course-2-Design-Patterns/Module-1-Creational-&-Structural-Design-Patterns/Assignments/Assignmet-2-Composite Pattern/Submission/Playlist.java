@@ -9,5 +9,36 @@ public class Playlist implements IComponent {
         this.playlistName = playlistName;
     }
 
-    // Your code goes here!
+    
+public void play(){
+
+for (IComponent component : playlist){
+component.play();
+}
+}
+
+
+public void setPlaybackSpeed(float speed){
+for (IComponent component : this.playlist){
+component.setPlaybackSpeed(speed);
+}
+}
+
+public String getName(){
+
+return playlistName;
+
+}
+
+public void add (IComponent component ){
+
+this.playlist.add(component);
+
+
+}
+
+public void remove(IComponent component ){
+
+this.playlist.remove(component);
+
 }
