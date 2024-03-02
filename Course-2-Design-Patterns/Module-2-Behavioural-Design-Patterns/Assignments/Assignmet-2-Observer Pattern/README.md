@@ -5,7 +5,7 @@
 ## UML Class Diagram:
 
 Use the UML class diagram below to help modify the provided code
-![UML Class Diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Module-1-Creational-%26-Structural-Design-Patterns/Assignments/Assignmet-2-Composite%20Pattern/Composite-UML-Class-Diagram.png)
+![UML Class Diagram](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Module-2-Behavioural-Design-Patterns/Assignments/Assignmet-2-Observer%20Pattern/UML_class_diagram_observer_pattern.png)
 
 ## Overview
 

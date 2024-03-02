@@ -5,7 +5,7 @@
 ## User Story:
 
 To help clarify what is expected in this version of the app, please view the user stories:
-![USER-STORY.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Module-1-Creational-%26-Structural-Design-Patterns/Assignments/Assignmet-2-Composite%20Pattern/Composite-UML-Class-Diagram.png)
+![USER-STORY.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Module-2-Behavioural-Design-Patterns/Assignments/Assignmet-1-Command%20Pattern/User-Story.pdf)
 
 ## Overview
 
