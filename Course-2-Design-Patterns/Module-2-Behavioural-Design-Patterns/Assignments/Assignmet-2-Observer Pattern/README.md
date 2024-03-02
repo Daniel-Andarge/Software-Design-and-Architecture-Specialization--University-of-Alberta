@@ -72,7 +72,7 @@ public class Follower implements Observer {
 }
 ```
 
-This repository includes a Java example demonstrating the Observer design pattern. The code consists of three main components:
+The code consists of three main components:
 
 - **Subject.java**: An interface defining methods for registering, removing, and notifying observers.
 - **Channel.java**: A class implementing the `Subject` interface, managing a list of observers, and providing methods for registration, removal, and notification.
