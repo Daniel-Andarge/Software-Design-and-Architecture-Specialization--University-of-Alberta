@@ -8,5 +8,28 @@ public class Song implements IComponent {
         this.artist = artist;
     }
 
-    // Your code goes here!
+  public void play(){
+
+// play song
+}
+
+
+public void setPlaybackSpeed(float speed){
+ 
+this.speed = speed
+
+}
+
+public String getName(){
+
+return this.songName;
+
+}
+
+public String getArtist(){
+
+return this.artist;
+
+}
+
 }

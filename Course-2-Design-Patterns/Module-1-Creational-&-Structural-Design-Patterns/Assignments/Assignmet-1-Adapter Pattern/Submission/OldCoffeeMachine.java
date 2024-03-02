@@ -1,4 +1,10 @@
 public class OldCoffeeMachine {
-    // Implement the existing functionality of the old coffee machine
-    // ...
+
+public void selectA(){
+    System.out.println("A - Selected");
+}
+
+public void selectB(){
+    System.out.println("B - Selected");
+}
 }
