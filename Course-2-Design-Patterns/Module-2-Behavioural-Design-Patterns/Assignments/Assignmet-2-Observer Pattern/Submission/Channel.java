@@ -4,16 +4,25 @@ import java.util.List;
 public class Channel implements Subject {
     private String channelName;
     private String status;
-    private List<Observer> followers;
+    private List<Observer> followers = new ArrayList<>();
 
 
     public Channel(String channelName, String status) {
         this.channelName = channelName;
-        this.followers = new ArrayList<>();
+       
     }
 
+    public void setChannelName(String channelName){
+        this.channelName = channelName;
+    }
+
+    public String getChannelName(){
+        return this.channelName;
+    }
+    
     public void setStatus(String status){
         this.status = status;
+        notifyObservers(status);
     }
 
     public String getStatus(){
