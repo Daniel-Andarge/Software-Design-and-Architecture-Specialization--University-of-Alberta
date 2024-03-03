@@ -2,9 +2,7 @@ package com.example.sharingapp;
 
 import android.content.Context;
 
-/**
- * @author Bishwa on 04/11/2020
- */
+
 public class EditContactCommand extends Command {
     private ContactList contactList;
     private Contact oldContact;
