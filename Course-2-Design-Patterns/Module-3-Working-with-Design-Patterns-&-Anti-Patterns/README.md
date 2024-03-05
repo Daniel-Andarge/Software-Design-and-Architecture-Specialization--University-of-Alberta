@@ -4,7 +4,7 @@
 
 Welcome to my GitHub repository! In this project, I'm excited to share with you a valuable design pattern for user interfaces: the Model-View-Controller (MVC). By exploring this pattern, you'll gain insights into creating more organized and maintainable software.
 
-![Anti-Patterns](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Design-Patterns.jpg)
+![Anti-Patterns](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Module-3-Working-with-Design-Patterns-%26-Anti-Patterns/antipattern.png)
 
 ## Learning Objectives
 
