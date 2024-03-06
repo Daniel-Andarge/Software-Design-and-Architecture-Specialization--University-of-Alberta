@@ -8,4 +8,4 @@ Create a UML class diagram that displays the basic MVC pattern for this web appl
 
 ## Solution
 
-[UML-Class-Diagram.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Module-3-Working-with-Design-Patterns-%26-Anti-Patterns/Assignments/Assignmet-1-MVC%20Pattern/Submission/UML-Class-Diagram.pdf)
+[UML-Class-Diagram.pdf](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-2-Design-Patterns/Module-3-Working-with-Design-Patterns-%26-Anti-Patterns/Assignments/Assignmet-1-MVC%20Pattern/Submission/Employee_UML_Class_Diagram.pdf)
