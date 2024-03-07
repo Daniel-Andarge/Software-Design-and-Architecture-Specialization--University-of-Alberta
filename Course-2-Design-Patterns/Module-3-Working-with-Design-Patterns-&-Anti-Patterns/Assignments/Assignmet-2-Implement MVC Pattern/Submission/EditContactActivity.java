@@ -15,14 +15,14 @@ import android.widget.EditText;
 public class EditContactActivity extends AppCompatActivity implements Observer {
 
     private ContactList contact_list = new ContactList();
-    private ContactListController contact_list_controller = new ContactListController(contact_list);
+    private Contact contact;
+
+    private ContactController contactController = new ContactController(contact);
+    private ContactListController contactListController = new ContactListController(contact_list);
 
     private EditText email;
     private EditText username;
     private Context context;
-
-    private Contact contact;
-    private ContactController contact_controller;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,12 +30,12 @@ public class EditContactActivity extends AppCompatActivity implements Observer {
         setContentView(R.layout.activity_edit_contact);
 
         context = getApplicationContext();
-        contact_list.loadContacts(context);
+        contactListController.loadContacts(context);
 
         Intent intent = getIntent();
         int pos = intent.getIntExtra("position", 0);
 
-        contact = contact_list.getContact(pos);
+        contact = contactListController.getContact(pos);
 
         username = (EditText) findViewById(R.id.username);
         email = (EditText) findViewById(R.id.email);
@@ -70,14 +70,8 @@ public class EditContactActivity extends AppCompatActivity implements Observer {
         String id = contact.getId(); // Reuse the contact id
         Contact updated_contact = new Contact(username_str, email_str, id);
 
-        
-
         // Edit contact
-        contact_list_controller.
-        EditContactCommand edit_contact_command = new EditContactCommand(contact_list, contact, updated_contact, context);
-        edit_contact_command.execute();
-
-        boolean success = edit_contact_command.isExecuted();
+        boolean success = contactListController.editContact(contact, updated_contact, context);
         if (!success){
             return;
         }
@@ -89,10 +83,7 @@ public class EditContactActivity extends AppCompatActivity implements Observer {
     public void deleteContact(View view) {
 
         // Delete contact
-        DeleteContactCommand delete_contact_command = new DeleteContactCommand(contact_list, contact, context);
-        delete_contact_command.execute();
-
-        boolean success = delete_contact_command.isExecuted();
+        boolean success = contactListController.deleteContact(contact, context);
         if (!success){
             return;
         }
