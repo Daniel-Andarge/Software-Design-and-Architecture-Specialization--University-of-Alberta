@@ -1,5 +1,8 @@
 package com.example.sharingapp;
 
+import com.example.sharingapp.ItemList;
+import com.example.sharingapp.ItemListController;
+
 import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
