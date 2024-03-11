@@ -83,6 +83,7 @@ public class EditContactActivity extends AppCompatActivity implements Observer {
         contact_list_controller.removeObserver(this);
     }
 
+    // New method for input validation
     private boolean validateInput() {
         String email_str = email.getText().toString();
         String username_str = username.getText().toString();
