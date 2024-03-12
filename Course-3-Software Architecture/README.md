@@ -4,7 +4,7 @@
 
 In this course, I delved into the fascinating world of software architecture, exploring how various software components, such as subroutines, classes, and functions, were organized and interacted with each other. This organization and interaction collectively formed what we referred to as architecture. Throughout the course, I studied the representation of these architectures, both in UML and other visual tools.
 
-![Software Architecture image](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/OOD.png)
+![Software Architecture image](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-3-Software%20Architecture/SA.png)
 
 I learn the most common architectural styles, their qualities, tradeoffs, and how they impacted our software development process. And we delved into the evaluation of architectures, understanding the characteristics of good architecture, and explored ways to enhance and improve it.
 

@@ -1,6 +1,6 @@
 # Module 1: UML Architecture Diagrams
 
-![UML Architecture Diagram Symbols](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/OOD.png)
+![UML Architecture Diagram Symbols](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-3-Software%20Architecture/Module-1-UML%20Architecture%20Diagrams/UML-Symbols.png)
 
 ## What I've Learned
 

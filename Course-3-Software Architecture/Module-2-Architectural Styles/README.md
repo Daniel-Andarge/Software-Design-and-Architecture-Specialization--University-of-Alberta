@@ -2,7 +2,7 @@
 
 Hey there! Welcome to my GitHub profile. In Module 2 of my learning adventure, I immersed myself in the captivating realm of Software Architectural Styles. Software, like a diverse ecosystem, comes in various forms, and the architectural decisions we make wield a profound influence over its security, efficiency, modularity, and maintainability.
 
-![Software Architectural Styles](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-1-Object-Oriented-Design/OOD.png)
+![Software Architectural Styles](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-3-Software%20Architecture/Module-2-Architectural%20Styles/Architectural-Styles.png)
 
 ## Learning Objectives
 
