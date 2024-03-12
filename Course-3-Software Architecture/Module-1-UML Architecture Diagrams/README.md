@@ -1,11 +1,10 @@
 # Module 1: UML Architecture Diagrams
 
-![UML Architecture Diagram Symbols](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-3-Software%20Architecture/Module-1-UML%20Architecture%20Diagrams/UML-Symbols.png)
-
 ## What I've Learned
 
 I've delved deep into the significance of software architecture, understanding its pivotal role in crafting robust systems. Throughout this learning journey, I've uncovered the various perspectives that must be considered when structuring software architecture. Moreover, I've acquired skills in effectively communicating architectural designs using Unified Modeling Language (UML).
-image
+
+![UML Architecture Diagram Symbols](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/blob/main/Course-3-Software%20Architecture/Module-1-UML%20Architecture%20Diagrams/UML-Symbols.png)
 
 ## Learning Objectives:
 
