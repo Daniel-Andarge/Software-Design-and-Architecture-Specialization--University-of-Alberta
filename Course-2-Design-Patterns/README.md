@@ -1,4 +1,4 @@
-# Course 2 - Design Patterns
+# My Course 2 - Design Patterns Journey
 
 ## Overview
 

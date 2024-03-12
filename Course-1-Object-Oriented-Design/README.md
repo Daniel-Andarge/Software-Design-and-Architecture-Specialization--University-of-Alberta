@@ -1,6 +1,6 @@
-# Course 1 - Object-Oriented Design
+# My Course 1 - Object-Oriented Design Journey
 
-**Professional Learning Summary**
+**Summary**
 
 This comprehensive course has significantly elevated my proficiency in Java programming, particularly through an in-depth exploration of object-oriented analysis and design principles. The key takeaways include:
 
