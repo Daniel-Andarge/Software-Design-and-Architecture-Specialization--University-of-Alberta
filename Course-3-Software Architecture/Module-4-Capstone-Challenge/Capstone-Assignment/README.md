@@ -27,6 +27,9 @@ Before proceeding with the assignment, it's essential to review the following le
 
 ### Files Provided
 
+- **Code Base**: Download, examine and run the code base provided. This is the same code base that you used in the previous Peer Review assignment:
+- ![SharingApp-Codebase](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/tree/main/Course-3-Software%20Architecture/Module-1-UML%20Architecture%20Diagrams/Capstone-Assignments/Assignment-3.1-Draw%20Component%20Diagram/SharingApp-c3-codebase)
+
 - **Attribute Utility Tree**: Initial Utility Tree highlighting Architecturally Significant Requirements (ASRs) of the current system version.
 
   - ![Attribute Utility Tree Image](Attribute-Utility-Tree.png)
