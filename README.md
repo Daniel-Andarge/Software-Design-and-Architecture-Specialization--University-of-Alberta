@@ -51,7 +51,7 @@ Basic Java programming knowledge was expected. The capstone application required
 
 ---
 
-## Course 3: [Software Architecture](link-to-course-3)
+## Course 3: [Software Architecture](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/tree/main/Course-3-Software%20Architecture)
 
 **What I Learned:**
 
