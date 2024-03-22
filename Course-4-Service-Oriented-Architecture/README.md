@@ -1,4 +1,4 @@
-**Course 4 - Service-Oriented Architecture Journey**
+## Course 4 - Service-Oriented Architecture Journey
 
 Welcome to Course 4 of your journey into Service-Oriented Architecture (SOA). This module serves as a foundational step towards understanding the principles and technologies that drive SOA. This module, have a solid grasp of the fundamental concepts behind service-oriented architectures and the technologies that underpin the World Wide Web.
 
