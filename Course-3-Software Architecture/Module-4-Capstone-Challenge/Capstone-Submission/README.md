@@ -4,10 +4,10 @@
 
 ### Download Quality Attribute Scenarios in Word Format
 
-You can download the Word document for Quality Attribute Scenarios by clicking [Evaluation - Quality Attribute Scenarios.doc](Evaluation - Quality Attribute Scenarios.doc). This document provides evaluations and scenarios related to quality attributes.
+You can download the Word document for Quality Attribute Scenarios by clicking [Evaluation - Quality Attribute Scenarios.doc](Evaluation-Quality-Attribute-Scenarios.doc). This document provides evaluations and scenarios related to quality attributes.
 
 ![Evaluation](Evaluation.jpg)
 
 ## Quality Attribute Utility Tree Diagram
 
-![Evaluation](Quality Attribute Utility Tree.png)
+![Evaluation](Quality-Attribute-Utility-Tree.png)
