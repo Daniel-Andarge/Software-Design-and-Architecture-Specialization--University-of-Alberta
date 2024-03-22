@@ -1,4 +1,4 @@
-# My Course 1 - Object-Oriented Design Journey
+# Course 1 - Object-Oriented Design Journey
 
 **Summary**
 

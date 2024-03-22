@@ -1,4 +1,4 @@
-# My Software Architecture Journey
+# Course 3 - Software Architecture Journey
 
 ## Overview
 
