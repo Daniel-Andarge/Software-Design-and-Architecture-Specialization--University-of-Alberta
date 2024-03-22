@@ -1,23 +1,50 @@
-# Module 4 - Capstone Challenge
+# Capstone Assignment 3.3 – Architecture Analysis and Evaluation
 
-Welcome to the culminating module of the course, where you put your knowledge and skills to the test in a practical scenario. In this capstone challenge, you will embark on the evaluation and enhancement of the proposed architecture to extend the functionality of the example Android code base, thereby applying the principles and techniques learned throughout the course to a real-world project.
+## Introduction
 
-## Learning Objectives
+This repository contains materials for Capstone Assignment 3.3, which involves the analysis and evaluation of an architecture. The objective is to assess the current architecture and design of a given system to inform decisions regarding its future development. By identifying potential risks and quality attributes, we aim to ensure the system's viability, usability, and maintainability.
 
-1. **Evaluate Software Architecture:** Utilize the Architecture Tradeoff Analysis Method (ATAM) to conduct a comprehensive evaluation of the existing software architecture. Through systematic analysis and assessment, identify strengths, weaknesses, and areas for improvement, ensuring that the architecture aligns with project objectives and stakeholder requirements.
+## Assignment Guidelines
 
-2. **Understand Quality Attribute Scenarios:** Deepen your understanding of quality attribute scenarios and their significance in architectural design and evaluation. Explore various scenarios that illustrate the impact of quality attributes on system behavior and performance, enabling you to make informed decisions to optimize architecture for desired attributes.
+### Review of Lectures
 
-## Additional Learning Objectives
+Before proceeding with the assignment, it's essential to review the following lectures:
 
-3. **Implement Functional Extensions:** Develop and implement functional extensions to the example Android code base, leveraging insights gained from architectural evaluation to enhance system capabilities and address identified deficiencies or limitations.
+- **Lecture 3.3.1 - Quality Attributes**
+- **Lecture 3.3.2 - Analyzing and Evaluating Architecture**
 
-4. **Integrate Best Practices:** Incorporate best practices and design patterns into the architecture to improve modularity, maintainability, and extensibility, fostering a robust and adaptable software solution capable of accommodating future changes and enhancements.
+### Assignment Tasks
 
-5. **Document and Communicate Findings:** Document your architectural evaluation findings, recommendations, and implementation strategies effectively, ensuring clarity and transparency in communication with stakeholders and team members. Foster collaborative discussion and decision-making processes to prioritize and execute architectural improvements.
+1. **Understanding the System**: Evaluate the architecture and design of the provided system to determine its strengths, weaknesses, and areas for improvement.
 
-6. **Iterative Refinement:** Embrace an iterative refinement approach to architecture development, continuously evaluating and refining the architecture based on feedback, evolving requirements, and emerging technological advancements. Iterate on the design to achieve a balance between immediate project goals and long-term architectural sustainability.
+2. **Identifying Risks**: Identify potential risks that the system may face, which could impact end users or developers. Consider factors such as usability, maintainability, and scalability.
 
-7. **Demonstrate Problem-Solving Skills:** Showcase your problem-solving skills and critical thinking abilities by tackling complex architectural challenges and devising innovative solutions to address them. Demonstrate resilience and adaptability in navigating uncertainties and constraints inherent in real-world software projects.
+3. **Quality Attribute Scenarios**: Review the provided Quality Attribute Scenarios from various perspectives. Determine if each scenario represents a risk, non-risk, tradeoff, or sensitivity point in the application's architecture.
 
-Through the capstone challenge and associated learning objectives, you will not only consolidate your knowledge and skills in software architecture but also gain invaluable hands-on experience in applying them to a practical scenario. This module serves as a culmination of your learning journey, preparing you to tackle real-world architectural challenges with confidence and proficiency.
+4. **Update Utility Tree**: Make necessary updates to the Attribute Utility Tree based on the identified scenarios. This includes adding quality attributes, refining attribute details, and adjusting priorities to reflect the evaluation findings.
+
+## Getting Started
+
+### Files Provided
+
+- **Code Base**: Download, examine and run the code base provided. This is the same code base that you used in the previous Peer Review assignment:
+  [SharingApp-Codebase](https://github.com/Daniel-Andarge/Software-Design-and-Architecture-Specialization--University-of-Alberta/tree/main/Course-3-Software%20Architecture/Module-1-UML%20Architecture%20Diagrams/Capstone-Assignments/Assignment-3.1-Draw%20Component%20Diagram/SharingApp-c3-codebase)
+
+- **Attribute Utility Tree**: Initial Utility Tree highlighting Architecturally Significant Requirements (ASRs) of the current system version.
+
+  - ![Attribute Utility Tree Image](Attribute-Utility-Tree.png)
+
+- **Quality Attribute Scenarios**: Document containing various scenarios to evaluate the architecture of the app.
+  - [Quality Attribute Scenarios.pdf](Quality%20Attribute%20Scenarios.pdf)
+
+### Assignment Execution
+
+1. Review the provided materials, including the Attribute Utility Tree and Quality Attribute Scenarios document.
+2. Analyze each Quality Attribute Scenario to determine its impact on the system architecture.
+3. Classify each scenario as a risk, non-risk, tradeoff, or sensitivity point, providing a brief explanation for each (3 sentences or less).
+4. Update the Attribute Utility Tree to reflect the identified scenarios, making necessary adjustments and additions.
+5. Ensure that the Utility Tree accurately represents the current state of the system architecture and its associated risks and priorities.
+
+## Conclusion
+
+By completing this assignment, we aim to gain a comprehensive understanding of the system's architecture and its implications for future development. Through thoughtful analysis and evaluation of quality attributes, we can make informed decisions to enhance the system's overall quality and effectiveness.
