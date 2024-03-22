@@ -32,10 +32,10 @@ Before proceeding with the assignment, it's essential to review the following le
 
 - **Attribute Utility Tree**: Initial Utility Tree highlighting Architecturally Significant Requirements (ASRs) of the current system version.
 
-  - ![Attribute Utility Tree Image](Attribute-Utility-Tree.png)
+  - ![Attribute Utility Tree Image](Attribute-Utility-Tree-start.png)
 
 - **Quality Attribute Scenarios**: Document containing various scenarios to evaluate the architecture of the app.
-  - [Quality Attribute Scenarios.pdf](Quality%20Attribute%20Scenarios.pdf)
+  - [Quality Attribute Scenarios.pdf](Quality-Attribute-Scenarios.pdf)
 
 ### Assignment Execution
 
